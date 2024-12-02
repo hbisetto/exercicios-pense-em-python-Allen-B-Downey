@@ -1,0 +1,9 @@
+Função chamada set
+argumentos:
+string-padrão, string de substituição, dois nomes de arquivo
+
+ler o nome no primeiro arquivo e escrever o conteúdo no segundo arquivo(criando-o, se necessário)
+
+se a string-padrão aparecer em algum lugar do arquivo, ela deve ser substituída pela string de substituição 
+
+se ocorrer um erro durante a abertura, leitura, escrita ou fechamento, seu programa deve capturar a exceção, exibir uma mensagem de erro e encerrar.
